@@ -24,20 +24,21 @@ For the Multispectral Supervised Classification section, refer to the provided S
 
 These scripts were made possible by collaboration with a number of individuals and organizations. <br>
 
-In addition to Ritvik Prabhu, specific script contributors are as follows: 
+Specific script contributors are as follows:
 #### Solar Angles Function
-  -	Oregon Department of Forestry:
-    -	Sean McKenzie, Harold Stevens, Hazel Daniels
+  - Ritvik Prabhu
+  -	Oregon Department of Forestry: Sean McKenzie, Harold Stevens, Hazel Daniels
 #### Preprocessing Preparations
-  -	Oregon Department of Forestry:
-    -	Sean McKenzie, Harold Stevens, Hazel Daniels
+  - Ritvik Prabhu
+  -	Oregon Department of Forestry: Sean McKenzie, Harold Stevens, Hazel Daniels
 #### Sentinel Topographic Correction
-  -	Oregon Department of Forestry:
-    -	Sean McKenzie, Harold Stevens, Hazel Daniels
+  - Ritvik Prabhu
+  -	Oregon Department of Forestry: Sean McKenzie, Harold Stevens, Hazel Daniels
 #### Random Forest Classifier
-  -	Oregon Department of Forestry:
-    -	Sean McKenzie, Harold Stevens, Hazel Daniels
+  - Ritvik Prabhu
+  -	Oregon Department of Forestry: Sean McKenzie, Harold Stevens, Hazel Daniels
 #### Validation Points Sampling
+  - Ritvik Prabhu
   -	OpenAI
 <br>
 Additionally, this project utilized ChatGPT (OpenAI, n.d.) for coding assistance and debugging, with any suggested code being reviewed, adapted as necessary, and tested prior to implementation. OpenAI has been specified in the script contributors above where it contributed to major code frameworks and/or internal script logic.
