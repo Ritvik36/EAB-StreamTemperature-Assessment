@@ -15,10 +15,30 @@ Scripts are organized into the following sections: <br>
   * Random Forest Classifier
   * Validation Point Sampling
 
+### SWAT Model Creation
+  * Weather Data Preprocessing
+    + prism_data_separation
+    + prism_concatenate_data
+    + csv_to_text
+    + add_first_row
+    + update_textfile_name
+    + combine_two_csv
+    + replace_first_row
+    + add_commas
+    + replace_tabs_with_commas
+
+
 Required user inputs will be located towards the top of each script in a designated segment. <br> 
 Refer to code comments for information on inputs and lines of code. <br> 
 Refer to the following graduate thesis for detailed information on the overall methodology, process, and procedures: <br> https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/bv73c8453?locale=en <br>
-For the Multispectral Supervised Classification section, refer to the provided Supplementary Protocol Instructions for further information on the scripts and inputs.
+
+Additionally, some scripts have supplementary protocols for further information on the scripts, inputs, and/or processes. The following scripts have supplementary protocols: <br>
+
+- Multispectral Supervised Classification
+  + Supplementary Protocol Instructions for Oregon Ash Supervised Classification
+- SWAT Model Creation
+  + Weather Data Preprocessing
+    * Weather Data Protocol 
 
 ---
 
@@ -40,6 +60,10 @@ Specific script contributors are as follows:
 #### Validation Points Sampling
   - Ritvik Prabhu
   -	OpenAI
+#### Weather Data Preprocessing scripts: prism_data_separation, prism_concatenate_data, csv_to_text, add_first_row, update_textfile_name, combine_two_csv, replace_first_row, add_commas, replace_tabs_with_commas
+  - Ritvik Prabhu
+  - Justine Obiazi
+  - OpenAI
 <br>
 Additionally, this project utilized ChatGPT (OpenAI, n.d.) for coding assistance and debugging, with any suggested code being reviewed, adapted as necessary, and tested prior to implementation. OpenAI has been specified in the script contributors above where it contributed to major code frameworks and/or internal script logic.
 
